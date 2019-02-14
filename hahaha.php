@@ -1,1 +1,1 @@
-fsgdsthryjnumku,oli.p;
+fsgdsthryjnumku,oli.p;git config --global credential.helper store
